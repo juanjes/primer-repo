@@ -1,1 +1,2 @@
 semos una prueba
+y aqui hemos cambiadoterminal.integrated.shell.windows
