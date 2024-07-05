@@ -1,1 +1,3 @@
 fichero2
+.
+algo que se vea mejor
